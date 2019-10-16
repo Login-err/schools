@@ -560,6 +560,9 @@ td {
   max-width: 950px !important;
   margin: auto !important;
 }
+.list_content > table a {
+  color: #00e;
+}
 .list_content > table[width="100%"] {
   padding: 40px 0;
 }
